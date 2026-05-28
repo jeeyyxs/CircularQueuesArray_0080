@@ -4,6 +4,6 @@ using namespace std;
 class Queues //membuat class queues
 {
 private:
-    static const int max = 3;
+    static const int max = 3; 
     int FRONT, REAR;
     int queue_array[max];
